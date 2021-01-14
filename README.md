@@ -9,7 +9,7 @@ SZU的校园网掉线情况越来越多，为了让恼人的掉线重登情况�
 ```shell
 FuckDrcom [option]...
   --login [IdNumbers] [password]
-  --autologin [IdNumbers [password]
+  --autologin [IdNumbers] [password]
   --logout
 ```
 ## 打赏
