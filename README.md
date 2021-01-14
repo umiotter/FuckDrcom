@@ -7,5 +7,5 @@ Fuck/auto-fuck drcom in SZU
 FuckDrcom [option]...
   --login [IdNumbers] [password]
   --autologin [IdNumbers [password]
-  --login
+  --logout
 ```
