@@ -9,3 +9,10 @@ FuckDrcom [option]...
   --autologin [IdNumbers [password]
   --logout
 ```
+## 打赏
+
+![]https://github.com/Neotter/FuckDrcom/blob/main/sponsor.jpg
+
+## 仓库地址
+
+https://github.com/Neotter/FuckDrcom
