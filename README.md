@@ -1,5 +1,7 @@
 # FuckDrcom
-Fuck/auto-fuck drcom in SZU
+
+> Fuck/auto-fuck drcom in SZU
+
 SZU的校园网掉线情况越来越多，为了让恼人的掉线重登情况消失，写了这个自动登录的python脚本
 
 ## 怎么用?
