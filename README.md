@@ -11,7 +11,7 @@ FuckDrcom [option]...
 ```
 ## 打赏
 
-![](https://github.com/Neotter/FuckDrcom/blob/main/sponsor.jpg)
+![](https://github.com/Neotter/FuckDrcom/blob/main/sponsor.png)
 
 ## 仓库地址
 
