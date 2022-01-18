@@ -7,10 +7,17 @@ SZU的校园网掉线情况越来越多，为了让恼人的掉线重登情况�
 ## 怎么用?
 
 ```shell
-FuckDrcom [option]...
-  --login [IdNumbers] [password]
-  --autologin [IdNumbers] [password]
-  --logout
+usage: FuckDrcom.py [-h] [--account ACCOUNT] [--passwd PASSWD] [--verbose] [--monitor] [--logout]
+
+Fuck Dr.com in SZU.
+
+optional arguments:
+  -h, --help         show this help message and exit
+  --account ACCOUNT  Login account.
+  --passwd PASSWD    Login password.
+  --verbose          Print ping log.
+  --monitor          Monitoring network state and auto login.
+  --logout           Logout.
 ```
 ## 打赏
 
